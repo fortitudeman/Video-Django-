@@ -13,13 +13,3 @@ Create a stripe account and put your stripe publishable key and secret key insid
 ## Latest update of the code
 
 Stripe changed their API to no longer allow a source being passed into a subscription. The code has been updated to now correctly bill a customer.
-
-## Where to find us
-
-Like us on [Facebook](https://www.facebook.com/justdjangocode/)
-
-Follow us on [Instagram](https://www.instagram.com/justdjangocode/)
-
-Subscribe to our [YouTube](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ) Channel
-
-Or visit our [Website](https://www.justdjango.com)
